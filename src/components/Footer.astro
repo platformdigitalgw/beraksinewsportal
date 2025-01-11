@@ -1,0 +1,14 @@
+---
+import { siteConfig } from '@/site-config'
+import { Image } from 'astro:assets'
+import logo from '/src/assets/images/logo/BN_Border.png'
+
+const today = new Date()
+---
+
+<footer class='flex justify-center items-center w-full px-16 h-28 border-t-2'>
+	<Image src={logo} alt='Beraksinews Logo' width='50' height='50' />&nbsp; &copy; {
+		today.getFullYear()
+	}
+	{siteConfig.title} - PT.Jalin Cipta Kreasi | Kananigara
+</footer>

@@ -1,0 +1,17 @@
+---
+import Title from './Title.astro'
+//import Shape from './icons/Shape.astro'
+import { Image } from 'astro:assets'
+import logo from '/src/assets/images/logo/BN_P.png'
+type Props = {
+	title: string
+}
+
+const { title } = Astro.props
+---
+
+<div class='flex justify-start items-center gap-2 title'>
+	<!--<Shape /> -->
+	<Image src={logo} alt='Beraksinews Logo' width='200' height='100' />
+	<Title>.{title}</Title>
+</div>
