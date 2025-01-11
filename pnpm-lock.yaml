@@ -119,6 +119,9 @@ dependencies:
   '@swc/wasm':
     specifier: ^1.10.7
     version: 1.10.7
+  '@tailwindcss/forms':
+    specifier: ^0.5.10
+    version: 0.5.10
   '@tailwindcss/typography':
     specifier: ^0.5.16
     version: 0.5.16
@@ -1853,6 +1856,14 @@ packages:
 
   /@swc/wasm@1.10.7:
     resolution: {integrity: sha512-F6u5Bi+CTVJDE7JwpyxgRyrwoZkzaQPN3w+14L0KUJfvv0qMCX6Iwd2kSN81A2ROJf59W1Z9EAc0iGt49FBT9w==}
+    dev: false
+
+  /@tailwindcss/forms@0.5.10:
+    resolution: {integrity: sha512-utI1ONF6uf/pPNO68kmN1b8rEwNXv3czukalo8VtJH8ksIkZXr3Q3VYudZLkCsDd4Wku120uF02hYK25XGPorw==}
+    peerDependencies:
+      tailwindcss: '>=3.0.0 || >= 3.0.0-alpha.1 || >= 4.0.0-alpha.20 || >= 4.0.0-beta.1'
+    dependencies:
+      mini-svg-data-uri: 1.4.4
     dev: false
 
   /@tailwindcss/typography@0.5.16:
@@ -4355,6 +4366,11 @@ packages:
   /mime@3.0.0:
     resolution: {integrity: sha512-jSCU7/VB1loIWBZe14aEYHU/+1UMEHoaO7qxCOVJOw9GgH72VAWppxNcjU+x9a2k3GSIBXNKxXQFqRvvZ7vr3A==}
     engines: {node: '>=10.0.0'}
+    hasBin: true
+    dev: false
+
+  /mini-svg-data-uri@1.4.4:
+    resolution: {integrity: sha512-r9deDe9p5FJUPZAk3A59wGH7Ii9YrjjWw0jmw/liSbHl2CHiyXj6FcDXDu2K3TjVAXqiJdaw3xxwlZZr9E6nHg==}
     hasBin: true
     dev: false
 
