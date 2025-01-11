@@ -24,7 +24,7 @@ const posts = await getPosts(MAX_POSTS)
 	import { animate } from 'motion'
 	const showAnimations = localStorage.getItem('animations') === 'true'
 
-	/*if (showAnimations) {
+	if (showAnimations) {
 		animate(
 			'.title',
 			{ y: [80, 0], opacity: [0, 1] },
@@ -35,5 +35,5 @@ const posts = await getPosts(MAX_POSTS)
 				offset: [0, 0.55, 0.75]
 			}
 		)
-	}*/
+	}
 </script>
