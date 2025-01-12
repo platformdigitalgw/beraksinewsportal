@@ -19,7 +19,7 @@ Sejak awal, Al Jazeera telah menghadapi berbagai upaya untuk membungkam liputann
 
 Tekad Al Jazeera untuk menyediakan laporan langsung sepanjang waktu tentang kengerian di Gaza dan serangan mematikan di Tepi Barat yang diduduki telah menimbulkan korban jiwa yang besar, dengan sedikitnya enam jurnalis Al Jazeera terbunuh di wilayah Palestina tersebut sejak tahun 2022.
 
-![](images/Screenshot-2024-09-22-at-9.41.16 AM-1-1726987919.png)
+![](/src/assets/images/Screenshot-2024-09-22-at-9.41.16 AM-1-1726987919.png)
 
 Keputusan PA untuk melarang Al Jazeera mencerminkan pengumuman Israel tahun lalu bahwa saluran tersebut akan dilarang di Israel dan kemudian penutupan biro di Ramallah.
 
@@ -53,7 +53,7 @@ Pihak berwenang Israel telah berulang kali berupaya membungkam Al Jazeera. Perda
 
 Setidaknya enam wartawan Al Jazeera telah dibunuh oleh otoritas Israel di Tepi Barat dan Gaza saat bertugas. Dalam sebagian besar kasus, para wartawan mengenakan rompi pers yang ditandai atau berada di dalam mobil yang ditandai dengan jelas.
 
-![](images/290A6692-1722520128.png)
+![](/src/assets/images/290A6692-1722520128.png)
 
 - [Shireen Abu Akleh](https://www.aljazeera.com/features/longform/2023/5/11/shireen-abu-akleh-al-jazeera-reporter-and-daughter-of-palestine) : Jurnalis veteran Abu Akleh ditembak dan dibunuh oleh peluru di kepala pada 11 Mei 2022, saat meliput serangan Israel di Jenin, di Tepi Barat yang diduduki. Meskipun dia mengenakan helm dan rompi yang bertuliskan "Pers", peluru dari penembak jitu Israel menembus tepat di bawah helmnya. Pasukan Israel pada awalnya mencoba menyalahkan "baku tembak" dari pejuang Palestina tetapi terpaksa menarik kembali ketika banyak bukti video membuktikan tidak ada pejuang Palestina di dekatnya. Tidak ada tindakan yang diambil terhadap penembak jitu tersebut. Pasukan Israel menyerang prosesi pemakamannya yang dihadiri oleh ribuan warga Palestina yang memberikan penghormatan - pada satu titik menyebabkan peti jenazahnya tergelincir dan hampir menyentuh tanah.
 - [Samer Abudaqa](https://www.aljazeera.com/news/2024/1/14/al-jazeeras-samer-abudaqa-was-targeted-left-to-bleed-by-israel-report) : Pada tanggal 15 Desember 2023, serangan udara Israel melukai juru kamera Al Jazeera Abudaqa di Khan Younis, Gaza. Pejabat Israel mencegah kendaraan darurat untuk menjangkaunya meskipun ada permintaan internasional karena ia kehabisan darah selama beberapa jam.
