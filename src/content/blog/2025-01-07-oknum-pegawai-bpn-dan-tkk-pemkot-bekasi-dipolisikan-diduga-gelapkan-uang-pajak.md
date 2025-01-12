@@ -11,7 +11,7 @@ tags:
   - "pajak"
   - "tkk"
 description: "Oknum Pegawai BPN dan TKK Pemkot Bekasi Dipolisikan, Diduga Gelapkan Uang Pajak"
-heroImage: "/src/assets/images/1000178673-1024x576-1.jpg"
+heroImage: "/src/assets/images/1000178673.jpg"
 ---
 
 **BeraksiNews , Jakarta ,-** Oknum pegawai Tenaga Kerja Kontrak Pemerintah Kota Bekasi terpaksa harus berurusan dengan polisi setelah diduga menggelapkan uang pajak milik warga.
